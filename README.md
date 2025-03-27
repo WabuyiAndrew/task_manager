@@ -1,4 +1,4 @@
-#Setting Up the project
+# Setting Up the project
 Note: Just copy the scripts only co not include the quotes("")
 
   # starting the backend server

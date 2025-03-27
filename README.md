@@ -24,14 +24,14 @@ Note: Just copy the scripts only do not include the quotes("")
 and finally check in you browser.
 Your Application should look like this
 
-![Task Manager interface](./frontend/assets/images/1.png)
-![Task Manager interface](./frontend/assets/images/2.png)
+ ![Task Manager interface](./frontend/assets/images/1.png)
+ ![Task Manager interface](./frontend/assets/images/2.png)
 
 # when you add the task minus marking complete it will look like this
-![Task Manager interface](./frontend/assets/images/3.png)
-![Task Manager interface](./frontend/assets/images/4.png)
+ ![Task Manager interface](./frontend/assets/images/3.png)
+ ![Task Manager interface](./frontend/assets/images/4.png)
 
-#when you add the task marked complete it will look like this
-![Task Manager interface](./frontend/assets/images/5.png)
-![Task Manager interface](./frontend/assets/images/6.png)
+# when you add the task marked complete it will look like this
+ ![Task Manager interface](./frontend/assets/images/5.png)
+ ![Task Manager interface](./frontend/assets/images/6.png)
   

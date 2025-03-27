@@ -20,7 +20,7 @@ Note: Just copy the scripts only do not include the quotes("")
 
 //NB: make sure both the servers are running
 
-##  Contratulations if your servers are running
+##  Congratulations if your servers are running(both for backend and frontend)
 and finally check in you browser.
 Your Application should look like this
 

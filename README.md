@@ -1,5 +1,5 @@
 # Setting Up the project
-Note: Just copy the scripts only co not include the quotes("")
+Note: Just copy the scripts only do not include the quotes("")
 
   # starting the backend server
 1. Open the Project Directory
